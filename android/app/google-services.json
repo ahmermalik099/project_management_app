@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "283639121413",
+    "project_id": "project-management-app-578c6",
+    "storage_bucket": "project-management-app-578c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283639121413:android:bc3224b53bc40e7881be6c",
+        "android_client_info": {
+          "package_name": "com.example.project_management_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBvokRGl6DtZtjW1DZZfnQs5yXtaLX5bA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

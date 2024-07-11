@@ -1,16 +1,14 @@
 # project_management_app
 
-A new Flutter project.
+I've created this project using the Provider Framework and used Firebase for data storage and Authentication
 
-## Getting Started
+![image](https://github.com/ahmermalik099/project_management_app/assets/130060329/9f67de72-70cd-4622-826d-c54923da485b)
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/ahmermalik099/project_management_app/assets/130060329/2697d1aa-6562-48d4-8c6b-54f8000f663a)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/ahmermalik099/project_management_app/assets/130060329/f32e872e-2e69-4065-8e51-ba07a6b0e1d4)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/ahmermalik099/project_management_app/assets/130060329/a6811c73-3355-47d3-af1b-caf6c61a6d0a)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
